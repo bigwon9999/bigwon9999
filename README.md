@@ -4,8 +4,7 @@ From July 12, 2021.
 
 I'm currenty learning ...
 
-https://img.shields.io/badge/style-flat-red?style=flat
-
+http://img.shields.io/badge/-GitHub-cFFFF66?style=flat&logo=GitHub
 <!---
 Here are some ideas to get you started:
 
