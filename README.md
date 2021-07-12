@@ -2,7 +2,7 @@
 
 From July 12, 2021.
 
-I'm currenty learning ...
+🌱I'm currenty learning ...
 
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=White"/><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=GitHub&logoColor=White"/>
 <!---
