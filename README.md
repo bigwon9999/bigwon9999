@@ -4,7 +4,7 @@ From July 12, 2021.
 
 I'm currenty learning ...
 
-![123123](https://user-images.githubusercontent.com/64629140/125242419-a1a35e00-e327-11eb-8f9e-c32bdbef4ef6.png)![Git-Icon-1788C](https://user-images.githubusercontent.com/64629140/125241806-dfec4d80-e326-11eb-87d9-56c19a246383.png)
+![123123](https://user-images.githubusercontent.com/64629140/125242533-c8fa2b00-e327-11eb-8bd6-6c1bf97297ba.png)![Git-Icon-1788C](https://user-images.githubusercontent.com/64629140/125242544-cac3ee80-e327-11eb-8940-30edb8388949.png)
 
 <!---
 Here are some ideas to get you started:
