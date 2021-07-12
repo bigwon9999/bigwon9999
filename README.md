@@ -3,9 +3,10 @@
 From July 12, 2021.
 
 I'm currenty learning ...
+
 ![html5](https://user-images.githubusercontent.com/64629140/125241248-2b522c00-e326-11eb-92eb-44a4026f0060.png)
 
-
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,3 +18,4 @@ html
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
