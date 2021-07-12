@@ -20,3 +20,4 @@ html
 - ⚡ Fun fact: ...
 --->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bigwon9999)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/github/languages/top/beygee/survive
