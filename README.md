@@ -1,7 +1,7 @@
 ### Hi there 👋 from July 12, 2021.
 
 ### 🌱I'm currenty learning ...
-<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=White"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=White"/> <img alt="Atom" src ="https://img.shields.io/badge/Atom-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=White"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=White"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=Black"/> <img alt="Atom" src ="https://img.shields.io/badge/Atom-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=White"/>
 <!---
 Here are some ideas to get you started:
 
