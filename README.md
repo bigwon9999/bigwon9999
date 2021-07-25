@@ -10,8 +10,6 @@
 ##### :camel:My knowledge to be a developer is nothing but a desert yet,
   
 ##### :ocean:But I'll take a step to the front until I reach the oasis!
-
-###### .
   
 </div>
 
@@ -28,8 +26,6 @@
  
  <div align="center" width="50">
   
-###### .
-  
 #### 🤔I've used at least once ...
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/> <img src ="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white"/> <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/Java-007396c.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
   
@@ -40,8 +36,6 @@
   </div>
     
 <div align="center" width="50">
-
-##### .
 
 #### :mortar_board:Education
 
