@@ -1,5 +1,5 @@
 # printf("Hello World"); 
-<font size="7" color="900c3f">/* 👋 from July 12, 2021. */</font>
+<font size="3" color="900c3f">/* 👋 from July 12, 2021. */</font>
 
 ### To become a front-end developer ...
 
