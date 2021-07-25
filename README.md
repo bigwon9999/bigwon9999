@@ -41,8 +41,6 @@
 ##### .
   
 </div>
-  <div align="center" width="50">
-    
     #### Education
     
     :mortar_board: 세종대학교 디지털콘텐츠학과 졸업(21.2)
