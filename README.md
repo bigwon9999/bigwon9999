@@ -18,7 +18,7 @@
   
   <img src ="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=for-the-badge&logo=OpenGL&logoColor=white"/> <img src ="https://img.shields.io/badge/Opencv-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img src ="https://img.shields.io/badge/Atom-66595C.svg?&style=for-the-badge&logo=Atom&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 
-  <div>
+  </div>
     
 <div align="center" width="50">
 
@@ -41,13 +41,12 @@
 ##### .
   
 </div>
-    #### Education
-    
-    :mortar_board: 세종대학교 디지털콘텐츠학과 졸업(21.2)
-    
-    :mortar_board: 컴퓨터활용능력 1급(21.07)
-    
-    ~ing 정보처리기사
+
+#### Education
+
+:mortar_board: 세종대학교 디지털콘텐츠학과 졸업(21.2)
+:mortar_board: 컴퓨터활용능력 1급(21.07)
+~ing 정보처리기사
 <!---
 Here are some ideas to get you started:
 
