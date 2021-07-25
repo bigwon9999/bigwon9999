@@ -37,7 +37,7 @@
     
 <div align="center" width="50">
 
-#### :mortar_board:Education
+#### :mortar_board:Education & license
 
 :checkered_flag:세종대학교 디지털콘텐츠학과 졸업(21.2)
 
