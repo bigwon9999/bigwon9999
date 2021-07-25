@@ -7,9 +7,9 @@
   
 ###### .
   
-##### :camel:My knowledge to be a developer is nothing but a desert yet,
+### :camel:My knowledge to be a developer is nothing but a desert yet,
   
-##### :ocean:But I'll take a step to the front until I reach the oasis!
+### :ocean:But I'll take a step to the front until I reach the oasis!
   
 </div>
 
