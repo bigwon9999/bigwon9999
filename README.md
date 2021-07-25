@@ -42,11 +42,17 @@
   
 </div>
 
-#### Education
+<div align="center" width="50">
+
+  #### Education
 
 :mortar_board: 세종대학교 디지털콘텐츠학과 졸업(21.2)
+
 :mortar_board: 컴퓨터활용능력 1급(21.07)
+
 ~ing 정보처리기사
+  
+  </div>
 <!---
 Here are some ideas to get you started:
 
