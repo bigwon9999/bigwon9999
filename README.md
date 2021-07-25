@@ -4,14 +4,18 @@
 ### :triangular_flag_on_post:To become a front-end developer ...
 
 <div align="center" width="50">
+
+###### .
+  
+###### .
   
 ##### :camel:My knowledge to be a developer is nothing but a desert yet,
   
 ##### :ocean:But I'll take a step to the front until I reach the oasis!
 
-##### .
+###### .
   
-##### .
+###### .
   
 </div>
 
