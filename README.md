@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
   
-### :star:a promise with myself
+### :star:A promise with myself
   
 #### :camel:My knowledge to be a developer is nothing but a desert yet,
   
