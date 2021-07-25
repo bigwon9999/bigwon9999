@@ -1,5 +1,5 @@
 # printf("Hello World"); 
-<font size="3" color="900c3f">/* 👋 from July 12, 2021. */</font>
+/* 👋 from July 12, 2021. */
 
 ### To become a front-end developer ...
 
@@ -30,6 +30,15 @@
 ##### :camel:My knowledge to be a developer is nothing but a desert yet. 
 
 ##### :ocean:But I'll take a step to the front until I reach the oasis.
+  
+##### .
+  
+  
+##### .
+  
+  
+##### .
+  
 </div>
   
 <!---
