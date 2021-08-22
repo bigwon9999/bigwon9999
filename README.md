@@ -45,7 +45,7 @@
 
 :checkered_flag:컴퓨터활용능력 1급(21.07)
 
-~ing 정보처리기사
+:checkered_flag:정보처리기사(21.08)
 
 ###### .
   
