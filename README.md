@@ -1,7 +1,7 @@
 # printf("Hello World"); 
 /* 👋 from July 12, 2021. */
 
-### :triangular_flag_on_post:To become a front-end developer ...
+<!-- ### :triangular_flag_on_post:To become a front-end developer ... -->
 
 <div align="center" width="50">
 
